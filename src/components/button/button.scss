@@ -1,0 +1,136 @@
+$primary: #409eff !default;
+$success: #00d100;
+$wranin: #e6a23c;
+$danger: #f56c6c;
+$button-space: 14px !default;
+$button-round: 4px !default;
+//基础信息
+.l-button{
+    //border: 1px solid #dcdfe6 ;
+    padding: 0  20px;
+    border-width:1px ;
+    border-style:solid ;
+    border-color: #dcdfe6;
+    border-radius: $button-round ;
+    background-color: #fff    ;
+    font-size: 14px;
+    color: #606266;
+    height: 40px;
+    + .l-button { margin-left: $button-space;}
+    //设置中间文字和图标的位置
+    >span{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .icon-prefix{
+    margin-right: 10px;
+    }
+   .icon-suffix{
+     margin-left: 10px;
+   }
+   }
+   // 按钮样式
+   .l-button-primary{
+    background-color: $primary ;
+    border-color: $primary;
+    color: #fff;
+    &.is-button{
+      background-color: transparent;
+      color:$primary ;
+    }
+   }
+   //按钮禁止点击的样式
+   .l-button[disabled]{
+    opacity: 0.5;
+    cursor: not-allowed;
+   }
+   .l-button-success{
+    background-color: $success;
+    border-color: $success;
+    color: #fff;
+    &.is-button{
+      background-color: transparent;
+      color:$success ;
+    }
+   }
+   .l-button-wranin{
+    background-color: #e6a23c;
+    border-color:#e6a23c;
+    color: #fff;
+    &.is-button{
+      background-color: transparent;
+      color:#e6a23c ;
+    }
+   }
+   .l-button-danger{
+    background-color: #f56c6c;
+    border-color:#f56c6c;
+    color: #fff;
+    &.is-button{
+      background-color: transparent;
+      color:#f56c6c;
+    }
+   }
+  /*
+  添加圆角样式
+  */
+  .is-round{
+    border-radius:100px ;
+  }
+  /*
+  控制大小
+  */
+  .l-button-medium{
+    height: 36px;
+  }
+  // 控制大小
+  .l-button-small{
+    padding: 0 14px;
+    height: 32px;
+    font-size: 12px;
+    .icon-prefix{
+    margin-right: 5px;
+    }
+   .icon-suffix{
+     margin-left: 5px;
+   }
+  }
+  
+  .l-button-mini{
+    padding: 0 14px;
+    height: 28px;
+    font-size: 12px;
+    .icon-prefix{
+    margin-right: 5px;
+    }
+   .icon-suffix{
+     margin-left: 5px;
+   }
+  }
+  
+  i{
+    width: 14px;
+    height: 14px;
+  }
+  .l-button-block{
+    display: block;
+    width: 100%;
+  }
+  
+  .icon-loading{
+    animation: rotate 1.5s  infinite linear;
+    // animation: loading 1s infinite linear;
+  }
+  
+  
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  //

@@ -1,0 +1,219 @@
+{
+  "id": "4004876",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3187571",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7008886",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "7009031",
+      "name": "trash",
+      "font_class": "trash",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "8116723",
+      "name": "文件夹",
+      "font_class": "wenjianjia1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "22660223",
+      "name": "新增",
+      "font_class": "xinzeng",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "36075054",
+      "name": "发布",
+      "font_class": "fabu",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "36075085",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "36075100",
+      "name": "修改",
+      "font_class": "xiugai",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "36075104",
+      "name": "预警",
+      "font_class": "yujing",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "34453017",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "337141",
+      "name": "03-搜索",
+      "font_class": "03sousuo",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "1034347",
+      "name": "增加内容",
+      "font_class": "9",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1114669",
+      "name": "图标1",
+      "font_class": "tubiao1",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "5482977",
+      "name": "图标库",
+      "font_class": "tubiaoku",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "5514473",
+      "name": "图标",
+      "font_class": "tubiao",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "8554246",
+      "name": "消息管理",
+      "font_class": "tubiao_",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "15531470",
+      "name": "图标2",
+      "font_class": "tubiao2",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "15531483",
+      "name": "图标5",
+      "font_class": "tubiao5",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "29848616",
+      "name": "c-lock2",
+      "font_class": "c-lock2",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7549346",
+      "name": "关闭",
+      "font_class": "RectangleCopy",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "7549347",
+      "name": "完成",
+      "font_class": "RectangleCopy1",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "7549362",
+      "name": "设置/管理",
+      "font_class": "RectangleCopy2",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "7549817",
+      "name": "单据",
+      "font_class": "RectangleCopy3",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "18267974",
+      "name": "文档",
+      "font_class": "wendang",
+      "unicode": "e99c",
+      "unicode_decimal": 59804
+    },
+    {
+      "icon_id": "19410758",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e99e",
+      "unicode_decimal": 59806
+    },
+    {
+      "icon_id": "34932629",
+      "name": "icon-broadcast",
+      "font_class": "icon-broadcast",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "34932632",
+      "name": "icon-delete Field",
+      "font_class": "a-icon-deleteField",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "34932633",
+      "name": "icon-date",
+      "font_class": "icon-date",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "34932644",
+      "name": "icon-download",
+      "font_class": "icon-download",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "34932665",
+      "name": "icon-show",
+      "font_class": "icon-show",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    }
+  ]
+}
